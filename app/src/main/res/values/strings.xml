@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP4-Ex1</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="printemps">pritemps</string>
+    <string name="ete">été</string>
+    <string name="automne">automne</string>
+    <string name="hiver">hiver</string>
+    <string name="titre_printemps">printemps</string>
+    <string name="titre_ete">été</string>
+    <string name="titre_automne">automne</string>
+    <string name="titre_hiver">hiver</string>
+    <string name="toutSaison">Toutes les saisons</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titre_toutSaison">Toutes les saisons</string>
+</resources>
